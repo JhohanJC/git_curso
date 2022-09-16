@@ -8,12 +8,12 @@ proyecto
  sabado
  domingo
  
- estaciones del año 
+ ESTACIONES del año 
  verano 
  invierno 
  otoño 
  primavera
 
- meses
+ MESES
  enero
  febrero
