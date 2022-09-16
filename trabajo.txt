@@ -13,4 +13,7 @@ proyecto
  invierno 
  otoño 
  primavera
- 
+
+ meses
+ enero
+ febrero
